@@ -3,7 +3,7 @@ return {
 	RedCliffStatus = Color3.fromRGB(255, 85, 0),
 	BerryAvenueStatus = Color3.fromRGB(255, 85, 0),
 	BloxFruitStatus = Color3.fromRGB(85, 255, 0),
-	AdoptMeStatus = Color3.fromRGB(255, 0, 0),
+	AdoptMeStatus = Color3.fromRGB(85, 255, 0),
 	SprayPaintStatus = Color3.fromRGB(255, 0, 0),
 	PrisonLifeStatus = Color3.fromRGB(255, 0, 0),
 	LivetopiaStatus = Color3.fromRGB(255, 0, 0),

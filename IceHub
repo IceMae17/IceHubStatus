@@ -1,5 +1,5 @@
 return {
-	BrookhavenStatus = Color3.fromRGB(255, 85, 0),
+	BrookhavenStatus = Color3.fromRGB(85, 255, 0),
 	RedCliffStatus = Color3.fromRGB(255, 85, 0),
 	BerryAvenueStatus = Color3.fromRGB(255, 85, 0),
 	BloxFruitStatus = Color3.fromRGB(85, 255, 0),

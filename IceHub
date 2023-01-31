@@ -7,7 +7,7 @@ return {
 	SprayPaintStatus = Color3.fromRGB(255, 0, 0),
 	PrisonLifeStatus = Color3.fromRGB(255, 0, 0),
 	LivetopiaStatus = Color3.fromRGB(255, 0, 0),
-	PublicBathroomStatus = Color3.fromRGB(255, 0, 0)
+	PublicBathroomStatus = Color3.fromRGB(85, 255, 0)
 }
 
 -- Color3.fromRGB(255, 85, 0) Orange

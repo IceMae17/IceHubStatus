@@ -1,15 +1,19 @@
-return {
-	BrookhavenStatus = Color3.fromRGB(85, 255, 0),
-	RedCliffStatus = Color3.fromRGB(255, 85, 0),
-	BerryAvenueStatus = Color3.fromRGB(255, 85, 0),
-	BloxFruitStatus = Color3.fromRGB(85, 255, 0),
-	AdoptMeStatus = Color3.fromRGB(85, 255, 0),
-	SprayPaintStatus = Color3.fromRGB(255, 0, 0),
-	PrisonLifeStatus = Color3.fromRGB(255, 0, 0),
-	LivetopiaStatus = Color3.fromRGB(255, 0, 0),
-	PublicBathroomStatus = Color3.fromRGB(85, 255, 0)
-}
+local Red = Color3.fromRGB(255, 0, 0)
+local Green = Color3.fromRGB(85, 255, 0)
+local Orange = Color3.fromRGB(255, 85, 0)
 
--- Color3.fromRGB(255, 85, 0) Orange
--- Color3.fromRGB(255, 0, 0) Red
--- Color3.fromRGB(85, 255, 0) Green
+return {
+	BrookhavenStatus = Green,
+	RedCliffStatus = Orange,
+	BerryAvenueStatus = Orange,
+	BloxFruitStatus = Green,
+	SprayPaintStatus = Red,
+	LivetopiaStatus = Red,
+	PublicBathroomStatus = Green,
+	AdoptMeStatus = Green,
+	BeeSwarmStatus = Red,
+	NaturalDisasterStatus = Red,
+	MurderMysteryStatus = Red,
+	SuperHeroTycoonStatus = Red,
+	BeAParkourStatus = Red
+}

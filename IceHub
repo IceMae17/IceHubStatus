@@ -15,5 +15,8 @@ return {
 	NaturalDisasterStatus = Red,
 	MurderMysteryStatus = Red,
 	SuperHeroTycoonStatus = Red,
-	BeAParkourStatus = Red
+	BeAParkourStatus = Red,
+	SimToLifeStatus = Red,
+	ZombieLabStatus = Red,
+	LegendOfSpeedStatus = Red
 }

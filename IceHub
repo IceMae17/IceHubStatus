@@ -19,4 +19,6 @@ return {
 	SimToLifeStatus = Red,
 	ZombieLabStatus = Red,
 	LegendOfSpeedStatus = Red
+	MurderMystery = Red
+	MurderVsSheriff = Green
 }

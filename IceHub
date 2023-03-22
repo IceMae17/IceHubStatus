@@ -4,8 +4,8 @@ local Orange = Color3.fromRGB(255, 85, 0)
 
 return {
 	BrookhavenStatus = Green,
-	RedCliffStatus = Orange,
-	BerryAvenueStatus = Orange,
+	RedCliffStatus = Green,
+	BerryAvenueStatus = Green,
 	BloxFruitStatus = Green,
 	SprayPaintStatus = Red,
 	LivetopiaStatus = Red,

@@ -18,7 +18,7 @@ return {
 	BeAParkourStatus = Red,
 	SimToLifeStatus = Red,
 	ZombieLabStatus = Red,
-	LegendOfSpeedStatus = Red
-	MurderMystery = Red
+	LegendOfSpeedStatus = Red,
+	MurderMystery = Red,
 	MurderVsSheriff = Green
 }

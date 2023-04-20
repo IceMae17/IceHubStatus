@@ -15,6 +15,7 @@ return {
 	NaturalDisasterStatus = Red,
 	MurderMysteryStatus = Red,
 	SimToLifeStatus = Red,
+	BayViewStatus = Red,
 	ZombieLabStatus = Red,
 	LegendOfSpeedStatus = Red,
 	MurderMysteryStatus = Red,

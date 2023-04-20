@@ -19,5 +19,6 @@ return {
 	ZombieLabStatus = Red,
 	LegendOfSpeedStatus = Red,
 	MurderMysteryStatus = Red,
+	PrisonLifeStatus = Red,
 	MurderVsSheriffStatus = Green
 }

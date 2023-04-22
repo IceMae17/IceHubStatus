@@ -14,7 +14,7 @@ return {
 	BeeSwarmStatus = Red,
 	NaturalDisasterStatus = Red,
 	MurderMysteryStatus = Red,
-	SimToLifeStatus = Red,
+	SimToLifeStatus = Green,
 	BayViewStatus = Red,
 	ZombieLabStatus = Red,
 	LegendOfSpeedStatus = Green,

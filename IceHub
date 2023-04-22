@@ -17,7 +17,7 @@ return {
 	SimToLifeStatus = Red,
 	BayViewStatus = Red,
 	ZombieLabStatus = Red,
-	LegendOfSpeedStatus = Red,
+	LegendOfSpeedStatus = Green,
 	MurderMysteryStatus = Red,
 	PrisonLifeStatus = Red,
 	MurderVsSheriffStatus = Green

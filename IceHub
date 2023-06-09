@@ -10,7 +10,7 @@ return {
 	SprayPaintStatus = Red,
 	LivetopiaStatus = Red,
 	PublicBathroomStatus = Green,
-	AdoptMeStatus = Green,
+	AdoptMeStatus = Red,
 	BeeSwarmStatus = Red,
 	NaturalDisasterStatus = Red,
 	MurderMysteryStatus = Red,

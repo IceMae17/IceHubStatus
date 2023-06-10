@@ -20,5 +20,6 @@ return {
 	LegendOfSpeedStatus = Green,
 	MurderMysteryStatus = Red,
 	PrisonLifeStatus = Red,
-	MurderVsSheriffStatus = Green
+	MurderVsSheriffStatus = Green,
+	AnimalSim = Green
 }

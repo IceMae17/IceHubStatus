@@ -21,5 +21,7 @@ return {
 	MurderMysteryStatus = Red,
 	PrisonLifeStatus = Red,
 	MurderVsSheriffStatus = Green,
-	AnimalSim = Green
+	AnimalSim = Green,
+	AnimalSimUW = Green,
+	FlagWars = Green
 }

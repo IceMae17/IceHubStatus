@@ -17,5 +17,9 @@ return {
 	MurderVsSheriffStatus = Green,
 	AnimalSim = Green,
 	AnimalSimUW = Green,
-	FlagWars = Green
+	FlagWars = Green,
+	BuildTowersToFlyFarther = Green,
+	ArmWrestleSimulator = Green,
+	SlapBattles = Green,
+	MurderVsSheriffDuels = Green
 }

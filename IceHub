@@ -21,5 +21,6 @@ return {
 	BuildTowersToFlyFarther = Green,
 	ArmWrestleSimulator = Green,
 	SlapBattles = Green,
-	MurderVsSheriffDuels = Green
+	MurderVsSheriffDuels = Green,
+	Bedwars = Green
 }

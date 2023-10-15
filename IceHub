@@ -9,18 +9,13 @@ return {
 	PublicBathroomStatus = Green,
 	AdoptMeStatus = Green,
 	SimToLifeStatus = Green,
-	BayViewStatus = Red,
-	ZombieLabStatus = Red,
 	LegendOfSpeedStatus = Green,
 	MurderMysteryStatus = Red,
-	PrisonLifeStatus = Red,
 	MurderVsSheriffStatus = Green,
 	AnimalSim = Green,
 	AnimalSimUW = Green,
-	FlagWars = Green,
-	BuildTowersToFlyFarther = Green,
-	ArmWrestleSimulator = Green,
+	FlagWars = Red,
 	SlapBattles = Green,
 	MurderVsSheriffDuels = Green,
-	Bedwars = Green
+	Bedwars = Red
 }
